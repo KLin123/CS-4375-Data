@@ -1,0 +1,21 @@
+Number of Hidden Layers,Activation Function #1,Activation Function #2,Output Layer Function,Learning Rate,Max Iterations (Epochs),Training Accuracy,Test Accuracy,Training Error,Test Error
+2,Relu,Relu,Sigmoid,0.01,100,94.44,100,0.04,0.01
+2,Relu,Relu,Sigmoid,0.1,100,100,100,0,0
+2,Relu,Relu,Tanh,0.01,100,90.74,72.22,0.09,1.83
+2,Relu,Relu,Tanh,0.1,100,68.52,66.67,0.22,0.22
+2,Relu,Sigmoid,Sigmoid,0.01,100,89.89,77.78,0.12,0.18
+2,Relu,Sigmoid,Sigmoid,0.1,100,96.3,100,0.04,0.03
+2,Relu,Sigmoid,Tanh,0.01,100,98.15,100,0.05,0.05
+2,Relu,Sigmoid,Tanh,0.1,100,98.15,88.89,0.01,0.07
+2,Sigmoid,Relu,Tanh,0.05,300,100,100,0,0
+2,Sigmoid,Tanh,Relu,0.5,250,68.52,72.22,0.31,0.28
+2,Sigmoid,Tanh,Relu,0.08,150,70.37,100,0.3,0
+2,Sigmoid,Tanh,Relu,0.01,350,100,94.44,0.01,0.04
+2,Sigmoid,Tanh,Relu,0.01,125,98.15,77.78,0.05,0.12
+2,Tanh,Sigmoid,Relu,0.01,200,98.15,100,0.04,0.02
+2,Tanh,Sigmoid,Relu,0.05,175,68.52,100,0.31,0.01
+2,Tanh,Sigmoid,Relu,0.05,275,72.22,94.44,0.28,0.05
+2,Tanh,Sigmoid,Relu,0.1,315,74.07,61.11,0.26,0.39
+2,Sigmoid,Sigmoid,Sigmoid,0.1,225,98.15,100,0.04,0.05
+2,Tanh,Tanh,Tanh,0.1,225,98.15,72.22,0.03,0.2
+2,Relu,Relu,Relu,0.1,225,70.37,55.56,0.3,0.44
